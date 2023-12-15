@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head> Memories
+</head>
+<style>
+body {
+    background-color: rgb(178, 136, 223);
+}
+.home {
+        position:absolute;
+        top:32%;
+        left:35px
+       }
+    #clicker {
+        position :absolute;
+        top: 22%;
+        font-size: 60px;
+        left: 40px;
+        background-color : rgba(255,255,255,0);
+        border-color: rgba(red, green, blue, 0);}
+</style>
+<body>
+    <button id = "clicker">🏡</button>
+    <h3 class = "home">Back to home</h3>
+
+
+    <script>
+var clickerButton = document.getElementById("clicker");
+            var onButtonClick = function() {
+            clickerButton= window.location.href ="index.html";
+             };
+            clickerButton.addEventListener("click", onButtonClick);
+    </script>
+</body>
+</html>
