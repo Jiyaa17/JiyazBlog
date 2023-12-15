@@ -1,0 +1,128 @@
+<style> /* Imported Font Styles   */
+        @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Great+Vibes&display=swap');
+       
+    
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik+Iso&family=Tourney:wght@100&display=swap');
+
+      
+        @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Nabla&family=Pacifico&display=swap');
+    </style>
+    <style> /* CSS Design*/
+     body{
+        background-color: rgb(45, 59, 38);
+        background-image: url("painting bg.JPG");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin: 0;
+        padding:0;
+        
+     }
+     #clicker{
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0,0.5);
+        width: 200px;
+        height: 70px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        border-style:groove;
+        border-color: aliceblue;
+        border-radius: 1cm;
+        margin-left: 100px;
+       
+
+     }
+     #clicker2 {
+        background-color:rgba(0, 0, 0, 0.5);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 70px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        border-style:groove;
+        border-color: aliceblue;
+        border-radius: 1cm;
+        margin-left: 70px;
+        
+        
+       
+
+     }
+     #clicker3 {
+        background-color:rgba(0, 0, 0, 0.5);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 70px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        border-style:groove;
+        border-color: aliceblue;
+        border-radius: 1cm;
+        margin-left: 70px;}
+
+
+
+    #clicker4 {
+        background-color:rgba(0, 0, 0, 0.5);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 70px;
+        border-style:groove;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        border-color: aliceblue;
+        border-radius: 1cm;
+        margin-left: 70px;}
+
+    #clicker5 {
+        background-color: rgba(0, 0, 0, 0.5);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 70px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        border-style:groove;
+        border-color: aliceblue;
+        border-radius: 1cm;
+        margin-left:70px;
+    }
+
+
+    h1 {
+        text-align: center;
+        background-color: aliceblue;
+        padding: 10px;
+    }
+    #logo {
+        width: 550px;
+        top: 20px;
+    }
+    
+
+        
+
+    
+    .welcome {
+        position:absolute;
+        top: 640px;
+        left:410px;
+        font-size:100px;
+        font-family: 'Press start 2p', cursive;
+        color: rgb(62, 6, 20);
+       }
+       #clicker:hover{
+        background-color: rgba(106, 31, 70, 0.4);
+       }
+       #clicker2:hover{
+        background-color: rgba(106, 31, 70, 0.4);       }
+       #clicker3:hover{
+        background-color: rgb(106, 31, 70,0.4);
+       }
+       #clicker4:hover{
+        background-color: rgb(106, 31, 70,0.4);
+       }
+       #clicker5:hover{
+        background-color: rgb(106, 31, 70,rgba(106, 31, 70, 0.4));
+       }
+
+    </style>
