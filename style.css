@@ -109,7 +109,7 @@
         font-family: 'Press start 2p', cursive;
         color: rgb(62, 6, 20);
        }
-       #clicker:hover{
+          #clicker:hover{
         background-color: rgba(106, 31, 70, 0.4);
        }
        #clicker2:hover{
@@ -121,6 +121,6 @@
         background-color: rgb(106, 31, 70,0.4);
        }
        #clicker5:hover{
-        background-color: rgb(106, 31, 70, 0.4);
+        background-color:rgba(106, 31, 70, 0.4);
        }
 
