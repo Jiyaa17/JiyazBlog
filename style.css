@@ -1,4 +1,4 @@
-<style> /* Imported Font Styles   */
+/* Imported Font Styles   */
         @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Great+Vibes&display=swap');
        
     
@@ -6,8 +6,7 @@
 
       
         @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Nabla&family=Pacifico&display=swap');
-    </style>
-    <style> /* CSS Design*/
+  > /* CSS Design*/
      body{
         background-color: rgb(45, 59, 38);
         background-image: url("painting bg.JPG");
@@ -125,4 +124,3 @@
         background-color: rgb(106, 31, 70,rgba(106, 31, 70, 0.4));
        }
 
-    </style>
